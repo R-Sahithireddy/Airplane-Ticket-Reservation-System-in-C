@@ -20,15 +20,15 @@ Airline Ticket Reservation System
 5. Exit
 
 ### Signup
-Enter your choice: 1
-Enter your name: David
-Enter your email: david@example.com
-Enter your password: david123
-Account created successfully!
+Enter your choice: 1<br>
+Enter your name: David<br>
+Enter your email: david@example.com<br>
+Enter your password: david123<br>
+Account created successfully!<br>
 
 ### Login
-Enter your choice: 2
-Enter your email: david@example.com
+Enter your choice: 2<br>
+Enter your email: david@example.com<br>
 Enter your password: david123
 Login successful!
 
