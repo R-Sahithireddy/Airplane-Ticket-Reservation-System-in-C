@@ -39,7 +39,7 @@ Available flights:
 2. IndiGo from Bengaluru to Mumbai Price: 4100 Seats available: 5
 3. SpiceJet from Bengaluru to Hyderabad Price: 4300 Seats available: 18
 
-Enter your choice of flight: 2
+Enter your choice of flight: 2<br>
 Flight booked successfully!
 
 ### Cancel Flight
