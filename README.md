@@ -29,8 +29,8 @@ Account created successfully!<br>
 ### Login
 Enter your choice: 2<br>
 Enter your email: david@example.com<br>
-Enter your password: david123
-Login successful!
+Enter your password: david123<br>
+Login successful!<br>
 
 ### Book Flight
 Enter your choice: 3
@@ -43,9 +43,9 @@ Enter your choice of flight: 2
 Flight booked successfully!
 
 ### Cancel Flight
-Enter your choice: 4
-Enter your email: david@example.com
-Flight cancelled successfully!
+Enter your choice: 4<br>
+Enter your email: david@example.com<br>
+Flight cancelled successfully!<br>
 
 ### Exit
 Enter your choice: 5
